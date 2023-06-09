@@ -1,5 +1,3 @@
-Berikut adalah contoh README.md untuk aplikasi Buku Tamu:
-
 # Aplikasi Buku Tamu
 
 Aplikasi Buku Tamu adalah sebuah aplikasi sederhana yang digunakan untuk mencatat kunjungan tamu. Aplikasi ini memungkinkan pengguna untuk memasukkan informasi tamu seperti nama, alamat, tanggal kunjungan, dan catatan tambahan. Data tamu yang dimasukkan akan disimpan dalam basis data untuk referensi dan pemantauan lebih lanjut.
